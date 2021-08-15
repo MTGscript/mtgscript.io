@@ -1,2 +1,2 @@
-# mtgscript.io
+# mtgscript.github.io
 pagePortafolio
